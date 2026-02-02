@@ -1,17 +1,29 @@
-👋 Hi, I’m @EghoPratama, Frontend Developer
-📝 Latest Project
-- Cerebrum (https://app.cerebrum.id)
-  Apps E-learning for preparation UTBK, made by Vue 2 & Quasar
-- JadiASN (https://app.jadiasn.id
-  Apps E-learning for preparation CPNS, made by Vue 2 & quasar
-- Seller Indieomnipos (https://seller.indieomnipos.com)
-  Apps omnichannel seller center, made by Nuxt js
-- Ocademy (https://app.ocademy.id)
-  Apps E-learning about Digital Marketing and Monitoring Facebook Ads, made by Vue 3 & Vite
-<!-- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+## Hi, I'm Egho Pratama 👋
 
-<!---
-EghoPratama/EghoPratama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend Developer with 3+ years experience building scalable web apps  
+Specialized in Vue.js, React, NextJs and modern frontend tooling
+
+### 🚀 Tech Stack
+- Frontend: Vue 3, React, Next.js, Tailwind CSS, Quasar
+- Backend: Laravel, NestJS REST API
+- Database: PostgreSQL, MySQL, MongoDB
+- Tools: Vite, Git, Docker, Vitest
+
+### 💼 Selected Projects
+
+- **Cerebrum** – Online UTBK Tryout Platform  
+  Vue + Quasar  
+  👉 app.cerebrum.id
+
+- **Ocademy** – Ads Whitelist & Course Platform  
+  Vue 3 + Vite  
+  👉 app.ocademy.id
+
+- **SatuInbox** – Digital Product Platform  
+  NextJS
+  👉 v2.satuinbox.com
+
+### 📫 Reach Me
+- LinkedIn: https://www.linkedin.com/in/egho-pratama/
+- Email: egho.dpratama@gmail.com
+
